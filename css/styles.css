@@ -1,0 +1,62 @@
+body {
+  background-image: url(../images/background.jpg);
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+/* Fonts */
+.wingdings {
+  font-family: "Wingdings", sans-serif;
+}
+
+.wingdings2 {
+  font-family: "Wingdings 2", sans-serif;
+}
+
+.wingdings3 {
+  font-family: "Wingdings 3", sans-serif;
+}
+
+.webdings {
+  font-family: "Webdings", sans-serif;
+}
+
+/* List styles */
+.list-square {
+  list-style: square;
+}
+
+.list-none {
+  list-style: none;
+}
+
+/* Text colors */
+.red {
+  color: red;
+}
+
+.orange {
+  color: orange;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.aqua {
+  color: aqua;
+}
+
+.blue {
+  color: blue;
+}
+
+.violet {
+  color: violet;
+}
